@@ -1,9 +1,5 @@
 {
   "name": "recipe-app",
-  "engines": {
-    "node": "16.x",
-    "npm": "6.x"
-},
   "version": "0.1.0",
   "private": true,
   "dependencies": {
